@@ -1,0 +1,58 @@
+.bg-primary{
+    background-color: #2a2a6e !important;
+}
+
+.active{
+    color: antiquewhite !important;
+}
+
+.nav-item{
+    font-size: 20px !important;
+    margin-left: 40px !important;
+
+}
+
+.navbar-brand{
+    margin-left: 65px !important;
+    font-size: 29px !important;
+    font-weight: 500 ;
+    color: antiquewhite !important;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.nav-link {
+    transition: transform 0.2s; /* Agrega una transición suave */
+  }
+
+  .nav-link:hover {
+    transform: scale(1.3); /* Escala el elemento a un 10% más grande al pasar el mouse */
+    color: brown !important;
+  }
+
+
+nav{
+    background-color: rgb(25, 25, 112);
+
+}
+
+
+
+
+.custom-content {
+    margin-top: 11px; /* Ajusta según tus necesidades */
+}
+
+.content2{
+    margin-top: -80px;
+}
+
+
+.custom{
+    margin-top: -30px;
+}
+
+.btn1{
+    background-color: #6374b6 !important;
+    color: antiquewhite !important;
+    font-weight: 500 !important;
+}
